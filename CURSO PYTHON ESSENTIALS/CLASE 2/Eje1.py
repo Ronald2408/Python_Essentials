@@ -1,0 +1,8 @@
+print(5+5)
+print(5-5)
+print(5*5)
+print(5/5)
+print(20//3)
+print(3**4)
+print(20%3)
+print("Hola Mundo CEC EPN")
